@@ -1,0 +1,48 @@
+body {
+    background-image: url(/imagenes/2.png);
+}
+
+footer {
+    text-align: center;
+}
+
+p {
+    font-family: 'Acme', sans-serif;
+    color:#2E5A1F ;
+}
+
+header {
+    background-color: white;
+    opacity: 0.75;
+}
+
+.carousel-inner img {
+    margin: auto;
+  }
+
+  .contacto {
+    font-family: 'Acme', sans-serif;
+font-size: 25px;
+color: #2E5A1F;
+text-decoration: none;
+text-align: center;
+
+  }
+
+.contacto a:link {
+    color: #B33E97;
+}
+
+.contacto a:visited {
+color:#2E5A1F;
+  }
+
+  .contacto a:hover {
+color: aliceblue;
+    background-color: #B33E97;
+  }
+  
+  .contacto a:active {
+      color: aliceblue;
+      background-color: #2E5A1F;
+  }
